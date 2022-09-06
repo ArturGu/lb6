@@ -20,7 +20,7 @@ namespace OP_Lab_6
         {
                       
             Console.WriteLine("Перелiк усiх систем:");
-            Console.WriteLine("1. БюджетСофт.");
+            Console.WriteLine("1. KYIV_Soft.");
             Console.WriteLine("2. APM_Торгiвля.");
             Console.WriteLine("3. ISpro.");
             Console.WriteLine("4. TechExpert.");
